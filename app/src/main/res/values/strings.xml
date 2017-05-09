@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gousto Extra Products</string>
+    <string name="poundSignPriceTV">£</string>
+    <string name="dummySpinnertxt">Categories</string>
+    <string name="dialogTitle">Gusto Extra Products</string>
+    <string name="dialogMessage">Loading products</string>
+    <string name="action_settings">Settings</string>
+</resources>
