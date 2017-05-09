@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
         android:allowBackup="true"
@@ -29,9 +30,6 @@
             android:name="AA_DB_VERSION"
             android:value="1"/>
 
-        <service
-            android:name="com.carllewis14.goustoextraproducts.Network.RetrofitSpiceService"
-            android:exported="false" />
 
     </application>
 
